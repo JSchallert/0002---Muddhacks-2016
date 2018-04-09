@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : FingerTech Gold Spark 16mm motor R2 50to1.SLDPRT
+Receiving System Product I.D.: FingerTech Gold Spark 16mm motor R2 50to1.SLDPRT
+File Name                    : D:\Dropbox\FingerTech\manufacturing\Spark motors\Gold Sparks\CAD\FingerTech Gold Spark 16mm motor.IGS
+Sending System               : SolidWorks 2009
+Preprocessor Version         : SolidWorks 2009
+File Creation Date           : 130911.132916
+Model Creation Date          : 130911.132916
+Units                        : MM
+Model Space Scale            : 1
+Author                       : Kurtis
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              10
+  Highest number of significant digits:                     13
+  Average number of significant digits:                7.44854
+  Maximum distance to origin:                          1746.61
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   13
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            784       784
+102  Composite curve                                888       888
+110  Line                                          1112      1112
+120  Surface of revolution                          192       192
+124  Transformation matrix                          776       776
+126  Rational B-spline curve                       1564      1564
+128  Rational B-spline surface                      152       152
+142  Curve on a parametric surface                  444       444
+144  Trimmed parametric surface                     344       344
+314  Color definition                               166       166
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       19
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Thursday, October 13, 2016 19:03:31
+Finish time: Thursday, October 13, 2016 19:03:36
+Processing time: 0 days, 00 hours, 00 mins, 05 secs
